@@ -1,0 +1,14 @@
+img{
+    height: 50%;
+}
+
+.card{
+    width: 5rem;
+    height: 25rem;
+    margin: 5px;
+    cursor: pointer;
+}
+
+.rat{
+    color:rgb(238, 246, 4);
+}

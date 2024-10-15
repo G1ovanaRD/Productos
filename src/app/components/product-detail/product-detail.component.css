@@ -1,0 +1,26 @@
+.card{
+    margin-top: 30px;
+    flex-wrap: wrap;
+    margin: auto;
+}
+
+svg{
+    color:blue;
+    margin: 5px;
+}
+.card{
+    width: 80%;
+}
+img{
+    width: 50%;
+    margin: auto;
+}
+.card-title{
+    color: rgb(114, 114, 183);
+    font-size: 3rem;
+    text-align: center;
+}
+
+.rat{
+    color:rgb(238, 246, 4);
+}

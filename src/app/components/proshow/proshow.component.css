@@ -1,0 +1,9 @@
+.container{
+    margin-top: 30px;
+    flex-wrap: wrap;
+}
+
+p{
+    color: rgb(28, 28, 236);
+    font-size: 2rem;
+}
